@@ -14,7 +14,7 @@
         <item>ID;riva,vince,rosy</item>
         <item>SG;vince,rosy</item>
         <item>RU;vince,rosy</item>
-        <item>IT</item>
-		<item>CH</item>
+        <item>IT;vince,gemini</item>
+		<item>CH;vince,gemini</item>
     </string-array>
 </resources>
