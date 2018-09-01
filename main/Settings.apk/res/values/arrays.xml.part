@@ -34,7 +34,15 @@
 		<item>ugg</item>
 		<item>ugglite</item>
         <item>whyred</item>
+		<item>cancro</item>
+		<item>land</item>
+		<item>prada</item>
+		<item>rolex</item>
+		<item>markw</item>
+		<item>kate</item>
 		<item>kenzo</item>
+		<item>nikel</item>
+		<item>omega</item>
     </string-array>
 	<string-array name="device_support_face">
         <item>jason</item>
@@ -77,6 +85,7 @@
 		<item>land</item>
 		<item>prada</item>
 		<item>rolex</item>
+		<item>markw</item>
 		<item>kate</item>
 		<item>kenzo</item>
 		<item>nikel</item>
