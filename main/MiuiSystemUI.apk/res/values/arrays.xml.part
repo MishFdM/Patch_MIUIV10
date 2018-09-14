@@ -37,6 +37,8 @@
 		<item>kenzo</item>
 		<item>nikel</item>
 		<item>omega</item>
+		<item>clover</item>
+		<item>beryllium</item>
     </string-array>
 	    <string-array name="device_support_face">
         <item>jason</item>
@@ -84,6 +86,7 @@
 		<item>kenzo</item>
 		<item>nikel</item>
 		<item>omega</item>
+		<item>beryllium</item>
     </string-array>
 	<string-array name="device_use_cameraone">
         <item>jason</item>
@@ -126,6 +129,7 @@
 		<item>kenzo</item>
 		<item>nikel</item>
 		<item>omega</item>
+		<item>beryllium</item>
     </string-array>
 	<string-array name="region_global_support_face_facejiajia">
         <item>IN</item>
