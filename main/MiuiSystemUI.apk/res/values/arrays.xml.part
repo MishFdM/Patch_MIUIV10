@@ -163,4 +163,15 @@
 		<item>IT</item>
         <item>CH</item>
     </string-array>
+	 <string-array name="region_global_support_face_sensetime">
+        <item>IN</item>
+        <item>ID</item>
+        <item>HK</item>
+        <item>TW</item>
+        <item>SG</item>
+        <item>VN</item>
+        <item>MY</item>
+		<item>IT</item>
+        <item>CH</item>
+    </string-array>
 </resources>
