@@ -21,7 +21,6 @@
 		<item>hydrogen</item>
 		<item>helium</item>
 		<item>oxygen</item>
-		<item>nitrogen</item>
 		<item>land</item>
 		<item>markw</item>
 		<item>rolex</item>
@@ -29,9 +28,6 @@
 		<item>santoni</item>
 		<item>rosy</item>
 		<item>riva</item>
-		<item>vince</item>
-		<item>cactus</item>
-		<item>cereus</item>
 		<item>sakura</item>
 		<item>ysl</item>
 		<item>omega</item>
@@ -43,12 +39,10 @@
 		<item>ugglite</item>
         <item>whyred</item>
 		<item>clover</item>
-		<item>beryllium</item>
     </string-array>
 	<string-array name="device_support_face">
         <item>aqua</item>
 		<item>libra</item>
-		<item>cancro</item>
 		<item>gemini</item>
 		<item>capricorn</item>
 		<item>natrium</item>
