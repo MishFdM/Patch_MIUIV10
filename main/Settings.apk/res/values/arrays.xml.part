@@ -18,6 +18,7 @@
 		<item>lithium</item>
 		<item>chiron</item>
 		<item>polaris</item>
+		<item>perseus</item>
 		<item>hydrogen</item>
 		<item>helium</item>
 		<item>oxygen</item>
@@ -36,9 +37,9 @@
 		<item>ugg</item>
 		<item>ugglite</item>
         <item>whyred</item>
+		<item>tulip</item>
 		<item>clover</item>
 		<item>beryllium</item>
-		<item>perseus</item>
     </string-array>
 	<string-array name="device_support_face">
         <item>aqua</item>
@@ -60,6 +61,7 @@
 		<item>lithium</item>
 		<item>chiron</item>
 		<item>polaris</item>
+		<item>perseus</item>
 		<item>hydrogen</item>
 		<item>helium</item>
 		<item>oxygen</item>
@@ -82,9 +84,9 @@
 		<item>ugg</item>
 		<item>ugglite</item>
         <item>whyred</item>
+		<item>tulip</item>
 		<item>clover</item>
 		<item>beryllium</item>
-		<item>perseus</item>
 		</string-array>
 	    <string-array name="always_enabled_app_list">
         <item>com.xiaomi.hm.health</item>
