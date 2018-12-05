@@ -41,7 +41,7 @@
 		<item>clover</item>
 		<item>beryllium</item>
     </string-array>
-	    <string-array name="device_support_face">
+	<string-array name="device_support_face">
         <item>aqua</item>
 		<item>libra</item>
 		<item>gemini</item>
@@ -87,8 +87,8 @@
 		<item>tulip</item>
 		<item>clover</item>
 		<item>beryllium</item>
-    </string-array>
-	<string-array name="device_use_cameraone">
+		</string-array>
+		<string-array name="device_use_cameraone">
         <item>aqua</item>
 		<item>libra</item>
 		<item>cancro</item>
@@ -142,18 +142,7 @@
 		<item>IT</item>
         <item>CH</item>
     </string-array>
-	    <string-array name="region_support_mihome">
-        <item>CN</item>
-        <item>IN</item>
-        <item>HK</item>
-        <item>TW</item>
-        <item>SG</item>
-        <item>US</item>
-        <item>TR</item>
-		<item>IT</item>
-        <item>CH</item>
-    </string-array>
-	 <string-array name="region_global_support_face_sensetime">
+    <string-array name="region_global_support_face_sensetime">
         <item>IN</item>
         <item>ID</item>
         <item>HK</item>
