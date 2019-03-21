@@ -33,6 +33,7 @@
         <item>whyred</item>
 		<item>tulip</item>
 		<item>lavender</item>
+		<item>violet</item>
 		<item>clover</item>
 		<item>beryllium</item>
     </string-array>
@@ -69,6 +70,7 @@
         <item>whyred</item>
 		<item>tulip</item>
 		<item>lavender</item>
+		<item>violet</item>
 		<item>clover</item>
 		<item>beryllium</item>
 		</string-array>
@@ -96,6 +98,7 @@
         <item>whyred</item>
 		<item>tulip</item>
 		<item>lavender</item>
+		<item>violet</item>
 		<item>clover</item>
     </string-array>
 	<string-array name="region_global_support_face_facejiajia">
