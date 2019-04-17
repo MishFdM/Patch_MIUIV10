@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="device_global_support_face_facejiajia">
-		<item>gemini</item>
 		<item>capricorn</item>
 		<item>natrium</item>
 		<item>tiffany</item>
@@ -14,20 +13,13 @@
 		<item>platina</item>
 		<item>cepheus</item>
 		<item>grus</item>
-		<item>scorpio</item>
 		<item>jason</item>
-		<item>lithium</item>
 		<item>chiron</item>
 		<item>polaris</item>
 		<item>perseus</item>
-		<item>hydrogen</item>
-		<item>nitrogen</item>		
-		<item>lotus</item>
 		<item>rosy</item>
 		<item>riva</item>
 		<item>vince</item>
-		<item>cactus</item>
-		<item>cereus</item>
 		<item>sakura</item>
 		<item>onc</item>
 		<item>ysl</item>
@@ -39,8 +31,7 @@
 		<item>beryllium</item>
     </string-array>
 	<string-array name="device_support_face">
-		<item>gemini</item>
-		<item>capricorn</item>
+				<item>capricorn</item>
 		<item>natrium</item>
 		<item>tiffany</item>
 		<item>sagit</item>
@@ -52,20 +43,13 @@
 		<item>platina</item>
 		<item>cepheus</item>
 		<item>grus</item>
-		<item>scorpio</item>
 		<item>jason</item>
-		<item>lithium</item>
 		<item>chiron</item>
 		<item>polaris</item>
 		<item>perseus</item>
-		<item>hydrogen</item>
-		<item>nitrogen</item>		
-		<item>lotus</item>
 		<item>rosy</item>
 		<item>riva</item>
 		<item>vince</item>
-		<item>cactus</item>
-		<item>cereus</item>
 		<item>sakura</item>
 		<item>onc</item>
 		<item>ysl</item>
