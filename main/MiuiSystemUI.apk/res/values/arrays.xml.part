@@ -17,6 +17,7 @@
 		<item>chiron</item>
 		<item>polaris</item>
 		<item>perseus</item>
+		<item>andromeda</item>
 		<item>rosy</item>
 		<item>riva</item>
 		<item>vince</item>
@@ -26,7 +27,9 @@
         <item>whyred</item>
 		<item>tulip</item>
 		<item>lavender</item>
-		<item>violet</item>
+		<item>violet</item>		
+		<item>davinci</item>
+		<item>raphael</item>
 		<item>clover</item>
 		<item>beryllium</item>
     </string-array>
@@ -47,6 +50,7 @@
 		<item>chiron</item>
 		<item>polaris</item>
 		<item>perseus</item>
+		<item>andromeda</item>
 		<item>rosy</item>
 		<item>riva</item>
 		<item>vince</item>
@@ -56,7 +60,9 @@
         <item>whyred</item>
 		<item>tulip</item>
 		<item>lavender</item>
-		<item>violet</item>
+		<item>violet</item>		
+		<item>davinci</item>
+		<item>raphael</item>
 		<item>clover</item>
 		<item>beryllium</item>
     </string-array>
